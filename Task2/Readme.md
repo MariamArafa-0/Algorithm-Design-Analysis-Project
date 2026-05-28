@@ -64,8 +64,6 @@ Recursively try all 8 knight moves from each cell. If a dead end is reached, **b
 .
 ├── knight_tour_greedy.cpp       # Greedy solution (C++)
 ├── knight_tour_bruteforce.cpp   # Brute-force backtracking (C++)
-├── knight_tour_greedy.py        # Greedy solution (Python)
-├── knight_tour_bruteforce.py    # Brute-force solution (Python)
 └── README.md
 ```
 
